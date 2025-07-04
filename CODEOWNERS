@@ -1,0 +1,10 @@
+# CODEOWNERS
+# Automatically request reviews from specific users or teams
+
+# All files default to this team
+* @gtsactive/devs
+
+# Specific files or folders
+/docs/ @gtsactive/docs-team
+/frontend/ @udaraPM
+/backend/ @isuruAI
